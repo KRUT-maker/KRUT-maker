@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KRUT-maker
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning some basic python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me rutkowski.kac.98@gmail.com
